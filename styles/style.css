@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: rgb(36, 36, 36);
+}
+
+p {
+    color: white;
+}
